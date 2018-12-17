@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DLogic HCE Example</string>
+    <string name="service_desc">DLogic HCE Service</string>
+    <string name="aid_description">DLogic HCE Example AID</string>
+</resources>
